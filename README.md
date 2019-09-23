@@ -10,7 +10,7 @@ replacing the param arguments with the arguments you want to provide. This is th
 the params at the terminal **java -jar jar-file-name [args …]** where args are the parameters, in this case the
 command to execute.
 
-######Existing configurations:
+###### Existing configurations:
 - 1/2 * 3_3/4
 - s (My mistake to leaving it there but works to test an invalid command)
 - 2_3/8 + 9/8
