@@ -100,6 +100,7 @@ public class Main {
                 return;
             } else {
                 System.out.println(INVALID_COMMAND);
+                return;
             }
         }
 
