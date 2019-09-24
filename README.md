@@ -3,7 +3,7 @@ Fractions program as coding challenge from OneLogin
 
 ###### Instructions to run:
 - Clone this repo
-- Use the saved configurations on the IDE to run specific command into the program
+- Use the saved run configurations on the IntelliJ IDEA to run specific command into the program.
 
 In case of wanting to run a different command you can add another configuration or edit an existing one and 
 replace the param arguments with the arguments you want to provide. This is the equivalent to run the jar file with 
