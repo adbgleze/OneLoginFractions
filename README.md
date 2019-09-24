@@ -5,8 +5,8 @@ Fractions program as coding challenge from OneLogin
 - Clone this repo
 - Use the saved configurations on the IDE to run specific command into the program
 
-In case of wanting to run a different command you can add another configuration or edit the an existing one and 
-replacing the param arguments with the arguments you want to provide. This is the equivalent to run the jar file with 
+In case of wanting to run a different command you can add another configuration or edit an existing one and 
+replace the param arguments with the arguments you want to provide. This is the equivalent to run the jar file with 
 the params at the terminal **java -jar jar-file-name [args …]** where args are the parameters, in this case the
 command to execute.
 
